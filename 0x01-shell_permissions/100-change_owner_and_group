@@ -1,2 +1,2 @@
 #!/bin/bash
-sudoedit [-g staff] [-U vincent] *
+chmod vincent:staff *
